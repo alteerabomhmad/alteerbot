@@ -82,7 +82,7 @@ function DevPoint(msg, matches)
 	  text = text..'\n🕌الغروب: '..data.Sunset
 	  text = text..'\n🕌آذان المغرب: '..data.Maghrib
 	  text = text..'\n🕌آذان العشاء : '..data.Isha
-	  text = text..'\n\nchannel : @DevPointCH'
+	  text = text..'\n\nchannel : @Ah_alteer'
 	if string.match(text, '0') then text = string.gsub(text, '0', '0') end
 	if string.match(text, '1') then text = string.gsub(text, '1', '1') end
 	if string.match(text, '2') then text = string.gsub(text, '2', '2') end

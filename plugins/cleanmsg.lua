@@ -4,7 +4,7 @@
 #:((
 # For More Information ....! 
 # Developer : Aziz < @TH3_GHOST > 
-# our channel: @DevPointTeam
+# our channel: @Ah_alteer
 # Version: 1.1
 #:))
 #ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
